@@ -16,7 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [frontendmentor.io](https://www.frontendmentor.io/solutions/responsive-qr-code-component-k-5TZj6VKg)
-- Live Site URL: [cancirkin.github.io](https://cancirkin.github.io/qr-code-frontend-mentor/)
+- Live Site URL: [cancirkin.github.io](https://cancirkin.github.io/faq-accordion-frontend-mentor/)
 
 ### Built with
 
